@@ -33,7 +33,6 @@ The analysis uses data collected across UK postal code areas, including:
    - Population distribution graphs
 
 ### Key Findings
-[Note: To be populated with actual findings from the analysis]
 - Regional preferences identified
 - Correlations between geographic factors and pet ownership
 - Notable trends in pet population distribution
